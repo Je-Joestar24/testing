@@ -1,3 +1,6 @@
 [submodule "submodules/sub1"]
 	path = submodules/sub1
 	url = https://github.com/Je-Joestar24/testing_sub1
+[submodule "CSS/HOME"]
+	path = CSS/HOME
+	url = git@github.com:Je-Joestar24/HOME--STYLES.git
